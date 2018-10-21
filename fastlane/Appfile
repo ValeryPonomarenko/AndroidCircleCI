@@ -1,0 +1,2 @@
+json_key_file("gplay_key.json")
+package_name("me.vponomarenko.androidcircleci")
