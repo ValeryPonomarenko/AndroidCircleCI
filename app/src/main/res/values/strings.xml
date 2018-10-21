@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidCircleCI</string>
+    <string name="click_me">Click me!</string>
+    <string name="hello_world">Hello world!</string>
 </resources>
